@@ -46,7 +46,7 @@ The data model connects four structured CSV datasets in Tableau:
    
  Run the Flask server:py app.py
 
-Open your browser and visit: http://127.0.0.1:8000/
+Open your browser and visit: https://global-olympic-sports-performance-xtdd.onrender.com
 
 👤 Author
 Nupur Vibhute
